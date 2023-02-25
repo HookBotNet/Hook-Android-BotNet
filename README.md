@@ -1,6 +1,8 @@
 # Hook-Android-BotNet
 # Android Hook BotNet 2023 Panel 🪝
 
+# NO TELEGRAM!
+
 # Price for Hook BotNet $1000 (LIFETIME)
 
 # functionality:
